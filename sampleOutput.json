@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Enas Taleb: Iraqi actress to sue Economist over 'fat' picture",
+      "description": "Enas Taleb says she is suing the newspaper over a picture of her on an article about \"fat\" women.",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-62494836",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/138E0/production/_126269008_mediaitem126269007.jpg",
+      "publishedAt": "2022-08-11T12:52:26.5047359Z",
+      "content": "By Wael Hussein Al Sayed and Elsa MaishmanBBC News\r\nAn Iraqi actress says she is suing the Economist newspaper for using a picture of her to illustrate an article about Arab women being \"fatter\" than… [+1757 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "The Russian billionaire daring to speak out about Putin",
+      "description": "Boris Mints calls Putin's invasion of Ukraine \"vile\", adding the war is a result of his \"madness\".",
+      "url": "http://www.bbc.co.uk/news/business-62037169",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F039/production/_126279416_2chn998.jpg",
+      "publishedAt": "2022-08-11T12:52:22.78691Z",
+      "content": "By Michael RaceBusiness reporter, BBC News\r\nBoris Mints is one of a few rich Russian businesspeople to speak out against Russia's invasion of Ukraine and President Vladimir Putin.\r\nThe majority of hi… [+5955 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "France firefighters battle 'monster' wildfire near Bordeaux",
+      "description": "The blaze in France's south-west has gutted a number of homes and forced some 10,000 people to flee.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62503775",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8333/production/_126278533_ae83db29-e629-4ef5-a21b-412d96e550c4.jpg",
+      "publishedAt": "2022-08-11T09:22:20.2306738Z",
+      "content": "More than 1,000 firefighters are battling a \"monster\" wildfire in the south-western France that has already destroyed nearly 7,000 hectares (17,300 acres) of forest, officials say.\r\nThe raging blaze … [+2168 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Seoul floods: 'Parasite-style' flats to be banned after deaths",
+      "description": "Two women and a teenager died in one of the tiny flats, which featured in the Oscar-winning film.",
+      "url": "http://www.bbc.co.uk/news/world-asia-62501192",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C8A7/production/_126276315_mediaitem126276314.jpg",
+      "publishedAt": "2022-08-11T08:22:23.723739Z",
+      "content": "By Melissa ZhuBBC News\r\nSouth Korea's capital Seoul will move to phase out semi-basement flats after two women and a teenager died during flooding earlier this week. \r\nThe tiny flats, featured in the… [+2058 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC Reel",
+      "title": "Where will abortion seekers go after Roe v Wade? - BBC Reel",
+      "description": "",
+      "url": "https://www.bbc.com/reel/playlist/the-truth-of-the-matter?vpid=p0crwzj3",
+      "urlToImage": "https://ychef.files.bbci.co.uk/1376x774/p0csb07s.jpg",
+      "publishedAt": "2022-08-11T08:07:20.0669099Z",
+      "content": "An ambitious series of medium-length and episodic documentaries empowered by thorough and original research."
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Meta's chatbot says the company 'exploits people'",
+      "description": "The new prototype doesn't think much of the company's CEO, Mark Zuckerberg, either.",
+      "url": "http://www.bbc.co.uk/news/technology-62497674",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4C65/production/_126275591_fzwss7lvuaey7eu.jpg",
+      "publishedAt": "2022-08-11T01:22:21.5825073Z",
+      "content": "By James ClaytonNorth America technology reporter\r\nMeta's new prototype chatbot has told the BBC that Mark Zuckerberg exploits its users for money. \r\nMeta says the chatbot uses artificial intelligenc… [+2656 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Austin Tice: US says reporter missing since 2012 held in Syria",
+      "description": "Syrian officials have denied holding American journalist Austin Tice, who vanished 10 years ago.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-62500387",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3941/production/_126275641_gettyimages-1237150273.jpg",
+      "publishedAt": "2022-08-10T23:37:20.5364463Z",
+      "content": "The US is certain that an American journalist abducted a decade ago has been held by the Syrian government, President Joe Biden says. \r\nAustin Tice, a former US Marine, was taken captive near Damascu… [+1962 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine war: Crimea airbase badly damaged, satellite images show",
+      "description": "New pictures show extensive damage to buildings and warplanes after explosions hit the Russian base.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62500560",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/28D9/production/_126275401_saki_airbase_after_20220810_zoom.png",
+      "publishedAt": "2022-08-10T22:22:23.3333297Z",
+      "content": "By Joshua Cheetham, Francesca Gillett &amp; Erwan RivaultBBC News\r\nSatellite images appear to show extensive damage and several destroyed Russian warplanes at a Crimea airbase following explosions ea… [+4088 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "John Bolton: Iranian man charged in US over alleged assassination plot",
+      "description": "US officials say the alleged plot to kill John Bolton was likely in revenge for a senior commander's death.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-62498193",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5543/production/_126272812_mediaitem126272811.jpg",
+      "publishedAt": "2022-08-10T17:37:24.5144284Z",
+      "content": "An Iranian man has been charged by the US with plotting to kill former Trump National Security Adviser John Bolton.\r\nUS officials said Shahram Poursafi, a member of Iran's Islamic Revolutionary Guard… [+2063 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Donald Trump questioned in New York investigation",
+      "description": "The former president says he declined to answer questions as part of the investigation into his business practices.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-62494861",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C5AF/production/_126270605_trump10aug.jpg",
+      "publishedAt": "2022-08-10T15:07:20.7960765Z",
+      "content": "By Bernd Debusmann JrBBC News, Washington\r\nFormer US President Donald Trump has said he declined to answer questions as part of a New York investigation into his family's business practices.\r\nMr Trum… [+2593 chars]"
+    }
+  ]
+}
